@@ -229,7 +229,7 @@ with st.sidebar:
 
     api_url = st.text_input(
         "API Endpoint",
-        value="http://127.0.0.1:8000",
+        value="https://saugatiwi-network-ids.hf.space",
         help="FastAPI backend URL"
     )
 
