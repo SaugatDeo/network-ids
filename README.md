@@ -17,15 +17,12 @@ Traditional rule-based intrusion detection systems (IDS) fail against novel atta
 
 ---
 
-## Live Demo
+## 🌐 Live Demo
 
 | Service | URL |
 |---|---|
 | 🖥️ SOC Dashboard | Coming soon — Streamlit Cloud |
-| ⚡ API Docs | Coming soon — HuggingFace Spaces |
-
----
-
+| ⚡ API Docs | [Open API](https://saugatiwi-network-ids.hf.space/docs) |
 ## Architecture
 
 ```
